@@ -1,4 +1,4 @@
-# Yoshi Engine + (MORE TUTORIALS! YAHOO!!)
+# Yoshi Engine Extra Info (MORE TUTORIALS! YAHOO!!)
 
 A extra guide in case Yoshi's documentation was a bit too much for you.
 
